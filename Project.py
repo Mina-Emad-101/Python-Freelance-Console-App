@@ -1,6 +1,8 @@
 import os
 import json
 
+#Edited locally on linux VM
+
 op1 = input("Enter \"login\" or \"register\" or \"end\": ")
 while op1 != "login" and op1 != "register" and op1 != "end":
     print("Error.")
